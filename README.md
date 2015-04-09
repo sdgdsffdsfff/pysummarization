@@ -1,4 +1,5 @@
 
+```
 def summary(text, key, max_word, max_sent):
     """
     Parameters
@@ -18,6 +19,7 @@ def summary(text, key, max_word, max_sent):
                           "max_word": max_word
                           })
     return summ.get_summary()
+```
 
 
 summary(u"年终钜惠！锐志最高优惠2.5万元   2014年01月21日，
